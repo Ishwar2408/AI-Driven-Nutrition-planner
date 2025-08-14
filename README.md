@@ -50,9 +50,3 @@ requirements.txt
 README.md
 ```
 
-## Notes on Real Integrations
-- **USDA FoodData Central**: add your key in env `USDA_API_KEY`. Implement the TODOs in `data_sources.py`.
-- **Fitbit / Apple Health**: export CSVs or connect via their APIs (OAuth). See `data_sources.py` for loaders.
-
-## Educational Use Only
-This tool is not medical advice. Consult a healthcare professional for personalized recommendations.
